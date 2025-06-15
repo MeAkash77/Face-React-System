@@ -1,0 +1,33 @@
+:root {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  color-scheme: dark;
+}
+
+body {
+  font-family: Roboto, Arial, sans-serif;
+  min-width: 320px;
+  min-height: 100vh;
+
+  color: rgba(255, 255, 255, 0.87);
+  background: rgb(5, 4, 41);
+  background: linear-gradient(
+    45deg,
+    rgba(5, 4, 41, 1) 0%,
+    rgba(24, 24, 36, 1) 60%
+  );
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: rgba(255, 255, 255, 0.87);
+  }
+}
