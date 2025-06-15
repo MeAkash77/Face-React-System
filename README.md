@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://face-react.vercel.app/">DEPLOY DEMO</a>
+  <a href="https://face-react-system.vercel.app/">DEPLOY DEMO</a>
 </p>
 
 ## Features
